@@ -27,7 +27,7 @@ Bootstrap:
 2. Unlike bootstrap, zl.css doesn't impose unexpected paddings/margin/formatting. This allows more manual control.
 3. zl.css has much better theme and palette control.
 4. Code written with zl.css tends to be a little shorter than bootstrap.
-5. The combined CSS files of zl.css is roughly 100kb unminified where bootstrap is 50kb minified.
+5. The combined CSS files of zl.css is roughly 150kb unminified where bootstrap is 50kb minified.
 6. zl.css names it's tags with HTML/CSS concepts; we think this is clearer.
 7. zl.css' numeric scale is easier to memorize and tinker with in an IDE that has good CSS autocompletion.
 
